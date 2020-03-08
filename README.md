@@ -1,6 +1,10 @@
-# billyis.me
+<div align=center>
 
-![Page Preview](./assets/img/preview.png)
+# BillyIsMe's Website
+
+[![Page Preview](./assets/img/preview.png)](https://billyis.me/)
+
+</div>
 
 ## Overview
 
