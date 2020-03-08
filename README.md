@@ -6,4 +6,4 @@ My personal website made with [UIkit](https://getuikit.com/) and [Particles.js](
 
 ## License
 
-This project is licensed under the [MIT](./LICENSE.md) License © 2013-2020 TheBillyIsMe
+This project is licensed under the [MIT](./LICENSE.md) License &copy; 2020 TheBillyIsMe
