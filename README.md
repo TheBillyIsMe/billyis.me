@@ -1,5 +1,7 @@
 # billyis.me
 
+![Page Preview](./assets/img/preview.png)
+
 ## Overview
 
 My personal website made with [UIkit](https://getuikit.com/) and [Particles.js](https://github.com/VincentGarreau/particles.js/).
