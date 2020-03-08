@@ -1,0 +1,15 @@
+<?php
+$pageName = 'Home';
+$pageLevel = 0;
+include('includes/recursivity.php');
+include('includes/header.php');
+?>
+<div class="uk-height-large uk-background-cover uk-light uk-flex" uk-parallax="viewport: 0.5;">
+	<div id="particles-js"></div>
+	<h1 class="uk-width-1-2@m uk-text-center uk-margin-auto uk-margin-auto-top uk-margin-medium-bottom">BillyIsMe</h1>
+	<div class="bim-buttons uk-width-1-2@m uk-text-center uk-margin-auto uk-margin-auto-bottom">
+		<a class="uk-button uk-button-default" href="/projects">Projects</a>
+		<a class="uk-button uk-button-default" href="/contact">Contact</a>
+	</div>
+</div>
+<?php include('includes/footer.php'); ?>

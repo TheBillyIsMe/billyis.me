@@ -1,0 +1,43 @@
+#particles-js {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 1;
+}
+
+.bim-buttons {
+	z-index: 2;
+}
+
+.uk-button {
+	margin: 0 1vw;
+	-webkit-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.uk-button:hover {
+	background-color: #FFFFFF !important;
+	border-color: transparent !important;
+	color: #002D40 !important;
+}
+
+.uk-height-large {
+	background-image: url(../img/background.jpg);
+	cursor: pointer;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.uk-height-large h1 {
+	font-family: 'Cabin', sans-serif;
+	font-size: 2.75rem;
+	font-weight: 700;
+	z-index: 2;
+}
