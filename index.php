@@ -1,7 +1,5 @@
 <?php
 $pageName = 'Home';
-$pageLevel = 0;
-include('includes/recursivity.php');
 include('includes/header.php');
 ?>
 <div class="uk-height-large uk-background-cover uk-light uk-flex" uk-parallax="viewport: 0.5;">

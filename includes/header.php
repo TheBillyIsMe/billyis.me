@@ -13,12 +13,12 @@
 		<meta name="language" content="English">
 		<meta name="author" content="BillyIsMe">
 		<!-- Favicons -->
-		<link rel="icon" type="image/x-icon" href="<?php echo adjustRecursivity(); ?>assets/img/favicon.ico" />
-		<link rel="icon" type="image/png" sizes="16x16" href="<?php echo adjustRecursivity(); ?>assets/img/favicon-16x16.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="<?php echo adjustRecursivity(); ?>assets/img/favicon-32x32.png">
-		<link rel="apple-touch-icon" sizes="180x180" href="<?php echo adjustRecursivity(); ?>assets/img/apple-touch-icon.png">
-		<link rel="manifest" href="<?php echo adjustRecursivity(); ?>assets/img/site.webmanifest">
-		<link rel="mask-icon" href="<?php echo adjustRecursivity(); ?>assets/img/safari-pinned-tab.svg" color="#5bbad5">
+		<link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico" />
+		<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+		<link rel="manifest" href="/assets/img/site.webmanifest">
+		<link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
 		<!-- Fonts -->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin&display=swap" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato&display=swap" />
@@ -26,11 +26,11 @@
 		<!-- UIkit CSS -->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.3.3/dist/css/uikit.min.css" />
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="<?php echo adjustRecursivity(); ?>assets/css/styles.css" />
+		<link rel="stylesheet" href="/assets/css/styles.css" />
 		<!-- Particles.js -->
-		<script src="<?php echo adjustRecursivity(); ?>assets/js/particles.min.js"></script>
+		<script src="/assets/js/particles.min.js"></script>
 		<!-- Initialize Particles.js -->
-		<script src="<?php echo adjustRecursivity(); ?>assets/js/init.particles.js"></script>
+		<script src="/assets/js/init.particles.js"></script>
 		<!-- UIkit JS -->
 		<script src="https://cdn.jsdelivr.net/npm/uikit@3.3.3/dist/js/uikit.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/uikit@3.3.3/dist/js/uikit-icons.min.js"></script>

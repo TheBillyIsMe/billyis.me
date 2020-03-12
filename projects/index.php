@@ -1,7 +1,5 @@
 <?php
 $pageName = 'Projects';
-$pageLevel = 1;
-include('../includes/recursivity.php');
 include('../includes/header.php');
 ?>
 <div class="projects-header">
