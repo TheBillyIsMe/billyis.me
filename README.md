@@ -4,6 +4,8 @@
 
 [![Page Preview](./assets/img/preview.png)](https://billyis.me/)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/thebillyisme/billyis.me/badge)](https://www.codefactor.io/repository/github/thebillyisme/billyis.me)
+
 </div>
 
 ## Overview
