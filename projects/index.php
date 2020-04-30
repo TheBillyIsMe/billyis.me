@@ -30,7 +30,7 @@ include('../includes/header.php');
 			<div class="uk-card-body">
 				<div class="uk-card-badge uk-label">Company Director</div>
 				<h3 class="uk-card-title">Prime Studios</h3>
-				<p>Prime Studios is a freelance development gorup providing high quality Web Development, Web Design, and System Administration services.</p>
+				<p>Prime Studios is a freelance development group providing high quality Web Development, Web Design, and System Administration services.</p>
 			</div>
 			<div class="uk-card-media-bottom">
 				<a href="https://primestudios.co/" target="_blank">
