@@ -11,7 +11,7 @@ include('../includes/header.php');
 	</div>
 </div>
 <div class="projects">
-	<div class="uk-card uk-card-default uk-grid-collapse uk-margin-none" uk-grid>
+	<div class="uk-card uk-card-default uk-grid-collapse" uk-grid>
 		<div>
 			<div class="uk-card-body">
 				<div class="uk-card-badge uk-label">Founder & CEO</div>
@@ -25,7 +25,7 @@ include('../includes/header.php');
 			</div>
 		</div>
 	</div>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-margin-none" uk-grid>
+	<div class="uk-card uk-card-default uk-grid-collapse" uk-grid>
 		<div>
 			<div class="uk-card-body">
 				<div class="uk-card-badge uk-label">Company Director</div>
@@ -39,7 +39,7 @@ include('../includes/header.php');
 			</div>
 		</div>
 	</div>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-margin-none" uk-grid>
+	<div class="uk-card uk-card-default uk-grid-collapse" uk-grid>
 		<div>
 			<div class="uk-card-body">
 				<div class="uk-card-badge uk-label">Community Manager</div>
